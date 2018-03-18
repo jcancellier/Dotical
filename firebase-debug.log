@@ -1,0 +1,32 @@
+[debug] [2018-03-18T13:55:48.774Z] ----------------------------------------------------------------------
+[debug] [2018-03-18T13:55:48.777Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2018-03-18T13:55:48.778Z] CLI Version:   3.17.6
+[debug] [2018-03-18T13:55:48.778Z] Platform:      darwin
+[debug] [2018-03-18T13:55:48.778Z] Node Version:  v6.11.2
+[debug] [2018-03-18T13:55:48.778Z] Time:          Sun Mar 18 2018 06:55:48 GMT-0700 (PDT)
+[debug] [2018-03-18T13:55:48.778Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-18T13:55:48.794Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-18T13:55:48.794Z] > authorizing via signed-in user
+[debug] [2018-03-18T13:55:48.797Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/dotical-198316  
+  
+ Sun Mar 18 2018 06:55:48 GMT-0700 (PDT)
+[debug] [2018-03-18T13:55:49.284Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-18T13:55:49.285Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/dotical-198316/tokens  
+  
+ Sun Mar 18 2018 06:55:49 GMT-0700 (PDT)
+[debug] [2018-03-18T13:55:49.678Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-18T13:55:49.679Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/dotical-198316  
+  
+ Sun Mar 18 2018 06:55:49 GMT-0700 (PDT)
+[debug] [2018-03-18T13:55:50.131Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/fernandomontes/Desktop/Dotical'...
+[info] 
+[debug] [2018-03-18T13:55:50.134Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/1079477058777/clients/_:getWebAppConfig  
+  
+ Sun Mar 18 2018 06:55:50 GMT-0700 (PDT)
+[debug] [2018-03-18T13:55:50.747Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
